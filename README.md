@@ -1,14 +1,12 @@
 #
 
-* install node and npm
-
-- accordingly with your OS
+* install node and npm accordingly with your OS
 
 * to clone the repository
 
 - git clone https://github.com/vitateje/komuny.git
 
-* go to komuny folder
+* go to komuny-test folder
 
 * install dependecies
 
